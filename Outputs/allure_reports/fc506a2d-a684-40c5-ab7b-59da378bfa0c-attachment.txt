@@ -1,0 +1,29 @@
+[32mINFO    [0m IccsMS:my_log.py:44 刷新页面
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+[32mINFO    [0m IccsMS:my_log.py:44 已关闭已默认打开的tab！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="59862986-ae23-42e4-9648-9db255a2ef8e")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已经进入媒体下发计划界面！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='searchForm']//a[text()='视频下发计划添加']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='searchForm']//a[text()='视频下发计划添加']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='searchForm']//a[text()='视频下发计划添加']")
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='name']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', "//*[@id='name']")进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>新增的视频下发计划1
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//label[text()='多媒体任务素材关系表：']/following-sibling::div//table//a")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//label[text()='多媒体任务素材关系表：']/following-sibling::div//table//a")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//label[text()='多媒体任务素材关系表：']/following-sibling::div//table//a")
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//select[contains(@id,'mediaId')]")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//select[contains(@id,'mediaId')]")-->已可见，等待时长为0
+[1m[31mERROR   [0m IccsMS:my_log.py:46 下拉框中选择选项失败

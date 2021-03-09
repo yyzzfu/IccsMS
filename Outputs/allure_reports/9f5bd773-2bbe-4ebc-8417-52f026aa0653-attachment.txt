@@ -1,0 +1,66 @@
+2020-12-04 17:37:42,350 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:37:42,353 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:37:42,384 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:37:42,392 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:37:42,444 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:37:42,445 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+2020-12-04 17:37:42,478 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+2020-12-04 17:37:42,487 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+2020-12-04 17:37:42,537 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体素材管理"]')可见
+2020-12-04 17:37:42,567 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体素材管理"]')-->已可见，等待时长为0
+2020-12-04 17:37:42,576 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体素材管理"]')
+2020-12-04 17:37:42,637 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:37:42,659 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:37:42,666 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:37:42,775 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="a8964aa0-8f2b-4628-b471-33cf34a25514")>iframe
+2020-12-04 17:37:42,776 - IccsMS - INFO - 日志信息：已经进入媒体素材管理界面！！！
+2020-12-04 17:37:42,777 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')可见
+2020-12-04 17:37:42,803 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')-->已可见，等待时长为0
+2020-12-04 17:37:42,811 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')
+2020-12-04 17:37:43,008 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', ".//*[@id='name']")可见
+2020-12-04 17:37:43,044 - IccsMS - INFO - 日志信息：-->元素:('xpath', ".//*[@id='name']")-->已可见，等待时长为0
+2020-12-04 17:37:43,054 - IccsMS - INFO - 日志信息：在-->元素：('xpath', ".//*[@id='name']")进行输入操作
+2020-12-04 17:37:43,293 - IccsMS - INFO - 日志信息：在元素('xpath', ".//*[@id='name']")上输入的值为-------->>>>>新增的视频素材1
+2020-12-04 17:37:43,294 - IccsMS - INFO - 日志信息：获取当前窗口的句柄
+2020-12-04 17:37:43,298 - IccsMS - INFO - 日志信息：获取当前窗口的句柄成功！！！当前窗口句柄为CDwindow-ACF2F73B7F92B1F92FE324190A97422C
+2020-12-04 17:37:44,298 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='pathPreview']/following-sibling::a[@onclick='pathFinderOpen();']")可见
+2020-12-04 17:37:44,327 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='pathPreview']/following-sibling::a[@onclick='pathFinderOpen();']")-->已可见，等待时长为0
+2020-12-04 17:37:44,336 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='pathPreview']/following-sibling::a[@onclick='pathFinderOpen();']")
+2020-12-04 17:37:44,576 - IccsMS - INFO - 日志信息：所有窗口的句柄分别为['CDwindow-ACF2F73B7F92B1F92FE324190A97422C', 'CDwindow-461B3CD7FC0893F81417D02BA898D9D1']
+2020-12-04 17:37:44,618 - IccsMS - INFO - 日志信息：已切换到最新的窗口！！！窗口句柄为CDwindow-461B3CD7FC0893F81417D02BA898D9D1
+2020-12-04 17:37:46,118 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//iframe[@allowtransparency="true"]')可见
+2020-12-04 17:37:48,152 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//iframe[@allowtransparency="true"]')-->已可见，等待时长为2
+2020-12-04 17:37:48,160 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:37:48,182 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="828ab626-6d46-4cbf-ab20-e280ac50cef1")>iframe
+2020-12-04 17:37:48,182 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='cke_9_label']")可见
+2020-12-04 17:37:48,210 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='cke_9_label']")-->已可见，等待时长为0
+2020-12-04 17:37:48,218 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='cke_9_label']")
+2020-12-04 17:37:50,328 - IccsMS - INFO - 日志信息：准备上传文件，文件的路径为C:\Users\yyzz\Desktop\图片\media\add\2020-12-04 11_42_52_156913.zip
+2020-12-04 17:37:52,373 - IccsMS - INFO - 日志信息：文件上传成功！！！
+2020-12-04 17:37:54,375 - IccsMS - INFO - 日志信息：准备执行鼠标双击('xpath', '//*[@class="files_thumbnails fake no_list"]//h5[text()="2020-12-04 11_42_52_156913.zip"]')
+2020-12-04 17:37:54,376 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@class="files_thumbnails fake no_list"]//h5[text()="2020-12-04 11_42_52_156913.zip"]')可见
+2020-12-04 17:37:54,400 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@class="files_thumbnails fake no_list"]//h5[text()="2020-12-04 11_42_52_156913.zip"]')-->已可见，等待时长为0
+2020-12-04 17:37:54,719 - IccsMS - INFO - 日志信息：执行鼠标双击成功！！！
+2020-12-04 17:37:56,720 - IccsMS - INFO - 日志信息：返回到默认窗口
+2020-12-04 17:37:56,726 - IccsMS - INFO - 日志信息：返回到默认窗口成功！！！窗口句柄为CDwindow-ACF2F73B7F92B1F92FE324190A97422C
+2020-12-04 17:37:57,728 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:37:57,754 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:37:57,764 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:37:57,783 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="a8964aa0-8f2b-4628-b471-33cf34a25514")>iframe
+2020-12-04 17:37:57,784 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='视频']")可见
+2020-12-04 17:37:57,811 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='视频']")-->已可见，等待时长为0
+2020-12-04 17:37:57,821 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='视频']")
+2020-12-04 17:37:57,905 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', ".//*[@id='content']")可见
+2020-12-04 17:37:57,930 - IccsMS - INFO - 日志信息：-->元素:('xpath', ".//*[@id='content']")-->已可见，等待时长为0
+2020-12-04 17:37:57,942 - IccsMS - INFO - 日志信息：在-->元素：('xpath', ".//*[@id='content']")进行输入操作
+2020-12-04 17:37:58,044 - IccsMS - INFO - 日志信息：在元素('xpath', ".//*[@id='content']")上输入的值为-------->>>>>新增的视频素材
+2020-12-04 17:37:58,045 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2020-12-04 17:37:58,069 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2020-12-04 17:37:58,081 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2020-12-04 17:37:58,200 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:37:58,748 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:37:58,759 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:37:58,782 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存素材成功
+2020-12-04 17:37:58,794 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存素材成功

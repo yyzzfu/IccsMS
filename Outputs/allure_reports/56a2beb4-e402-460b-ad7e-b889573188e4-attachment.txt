@@ -1,0 +1,34 @@
+2020-12-04 17:34:42,646 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:34:42,649 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:34:42,682 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:34:42,693 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:34:42,784 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:34:42,785 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')可见
+2020-12-04 17:34:42,817 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')-->已可见，等待时长为0
+2020-12-04 17:34:42,844 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')
+2020-12-04 17:34:42,952 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')可见
+2020-12-04 17:34:42,982 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')-->已可见，等待时长为0
+2020-12-04 17:34:42,993 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')
+2020-12-04 17:34:43,085 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:34:43,132 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:34:43,200 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:34:43,329 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="d8a61243-e054-4a16-bbac-75bffa0f3711")>iframe
+2020-12-04 17:34:43,330 - IccsMS - INFO - 日志信息：已进入设备管理界面！！！
+2020-12-04 17:34:43,330 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//*[contains(text(),'修改-电视机')]/../..//a[text()='删除']")可见
+2020-12-04 17:34:43,361 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//*[contains(text(),'修改-电视机')]/../..//a[text()='删除']")-->已可见，等待时长为0
+2020-12-04 17:34:43,371 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//*[contains(text(),'修改-电视机')]/../..//a[text()='删除']")
+2020-12-04 17:34:43,492 - IccsMS - INFO - 日志信息：已切回到默认的iframe
+2020-12-04 17:34:43,493 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')可见
+2020-12-04 17:34:43,513 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')-->已可见，等待时长为0
+2020-12-04 17:34:43,521 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')
+2020-12-04 17:34:44,075 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:34:44,116 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:34:44,124 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:34:44,139 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="d8a61243-e054-4a16-bbac-75bffa0f3711")>iframe
+2020-12-04 17:34:44,140 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:34:44,159 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:34:44,166 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:34:44,181 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+删除设备成功
+2020-12-04 17:34:44,189 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+删除设备成功

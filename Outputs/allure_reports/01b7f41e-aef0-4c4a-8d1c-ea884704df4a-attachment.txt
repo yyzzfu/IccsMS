@@ -1,0 +1,23 @@
+[32mINFO    [0m IccsMS:my_log.py:44 刷新页面
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+[32mINFO    [0m IccsMS:my_log.py:44 已关闭已默认打开的tab！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="391dc732-802b-43fa-a654-12657ba615ba")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已经进入媒体下发计划界面！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的视频下发计划1')]/../..//a[text()='修改']")可见
+[1m[31mERROR   [0m IccsMS:my_log.py:46 等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的视频下发计划1')]/../..//a[text()='修改']")可见失败！
+[1m[31mERROR   [0m IccsMS:my_log.py:46 查找元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的视频下发计划1')]/../..//a[text()='修改']")失败
+[32mINFO    [0m IccsMS:my_log.py:44 截图成功，存放路径为：C:\Users\yyzz\Desktop\IccsMS\Outputs/screenshots/_2020-12-04-17-38-20.png
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的视频下发计划1')]/../..//a[text()='修改']")
+[1m[31mERROR   [0m IccsMS:my_log.py:46 点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的视频下发计划1')]/../..//a[text()='修改']")失败
+[32mINFO    [0m IccsMS:my_log.py:44 截图成功，存放路径为：C:\Users\yyzz\Desktop\IccsMS\Outputs/screenshots/_2020-12-04-17-38-21.png

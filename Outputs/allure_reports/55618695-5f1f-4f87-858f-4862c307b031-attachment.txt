@@ -1,0 +1,43 @@
+[32mINFO    [0m IccsMS:my_log.py:44 刷新页面
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+[32mINFO    [0m IccsMS:my_log.py:44 已关闭已默认打开的tab！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//span[text()="场景设置"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//span[text()="场景设置"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//span[text()="场景设置"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="188b39a7-e29f-4476-a926-104268612031")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已进入场景设置界面！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的场景2')]/../..//a[text()='修改']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的场景2')]/../..//a[text()='修改']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的场景2')]/../..//a[text()='修改']")
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="name"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="name"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->清空元素(**输入框**)：('xpath', '//*[@id="name"]')中的内容
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="name"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="name"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', '//*[@id="name"]')进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', '//*[@id="name"]')上输入的值为-------->>>>>修改后的场景2
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="remarks"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="remarks"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->清空元素(**输入框**)：('xpath', '//*[@id="remarks"]')中的内容
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="remarks"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="remarks"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', '//*[@id="remarks"]')进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', '//*[@id="remarks"]')上输入的值为-------->>>>>修改的场景备注2
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IccsMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存场景设置成功
+[32mINFO    [0m IccsMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+保存场景设置成功

@@ -1,0 +1,76 @@
+2020-12-04 17:33:57,197 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:33:57,199 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:33:57,222 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:33:57,230 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:33:57,275 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:33:57,276 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')可见
+2020-12-04 17:33:57,304 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')-->已可见，等待时长为0
+2020-12-04 17:33:57,317 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')
+2020-12-04 17:33:57,451 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')可见
+2020-12-04 17:33:57,487 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')-->已可见，等待时长为0
+2020-12-04 17:33:57,510 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')
+2020-12-04 17:33:57,636 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:33:57,668 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:33:57,683 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:33:57,978 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="835f7e04-dab5-4f7f-93cf-6a1332a0e6ca")>iframe
+2020-12-04 17:33:57,979 - IccsMS - INFO - 日志信息：已进入设备管理界面！！！
+2020-12-04 17:33:57,981 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//*[contains(text(),'新增-485协议温湿度传感器')]/../..//a[text()='修改']")可见
+2020-12-04 17:33:58,024 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//*[contains(text(),'新增-485协议温湿度传感器')]/../..//a[text()='修改']")-->已可见，等待时长为0
+2020-12-04 17:33:58,033 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//*[contains(text(),'新增-485协议温湿度传感器')]/../..//a[text()='修改']")
+2020-12-04 17:33:58,368 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', './/*[@id="name"]')可见
+2020-12-04 17:33:58,391 - IccsMS - INFO - 日志信息：-->元素:('xpath', './/*[@id="name"]')-->已可见，等待时长为0
+2020-12-04 17:33:58,399 - IccsMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', './/*[@id="name"]')中的内容
+2020-12-04 17:33:58,454 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', './/*[@id="name"]')可见
+2020-12-04 17:33:58,472 - IccsMS - INFO - 日志信息：-->元素:('xpath', './/*[@id="name"]')-->已可见，等待时长为0
+2020-12-04 17:33:58,480 - IccsMS - INFO - 日志信息：在-->元素：('xpath', './/*[@id="name"]')进行输入操作
+2020-12-04 17:33:58,583 - IccsMS - INFO - 日志信息：在元素('xpath', './/*[@id="name"]')上输入的值为-------->>>>>修改-485协议温湿度传感器
+2020-12-04 17:33:58,584 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='s2id_type']//b")可见
+2020-12-04 17:33:58,603 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='s2id_type']//b")-->已可见，等待时长为0
+2020-12-04 17:33:58,612 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='s2id_type']//b")
+2020-12-04 17:33:58,718 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="select2-drop"]//*[text()="温湿度传感器"]')可见
+2020-12-04 17:33:58,747 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="select2-drop"]//*[text()="温湿度传感器"]')-->已可见，等待时长为0
+2020-12-04 17:33:58,756 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="select2-drop"]//*[text()="温湿度传感器"]')
+2020-12-04 17:33:58,839 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='s2id_childType']//b")可见
+2020-12-04 17:33:58,862 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='s2id_childType']//b")-->已可见，等待时长为0
+2020-12-04 17:33:58,869 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='s2id_childType']//b")
+2020-12-04 17:33:58,962 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+2020-12-04 17:33:58,985 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+2020-12-04 17:33:58,994 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='select2-drop']//input")进行输入操作
+2020-12-04 17:33:59,095 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='select2-drop']//input")上输入的值为-------->>>>>485协议温湿度传感器
+2020-12-04 17:33:59,096 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+2020-12-04 17:33:59,112 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+2020-12-04 17:33:59,161 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='s2id_area.id']//b")可见
+2020-12-04 17:33:59,179 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='s2id_area.id']//b")-->已可见，等待时长为0
+2020-12-04 17:33:59,186 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='s2id_area.id']//b")
+2020-12-04 17:33:59,268 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+2020-12-04 17:33:59,290 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+2020-12-04 17:33:59,298 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='select2-drop']//input")进行输入操作
+2020-12-04 17:33:59,348 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='select2-drop']//input")上输入的值为-------->>>>>服务区
+2020-12-04 17:33:59,349 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+2020-12-04 17:33:59,368 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+2020-12-04 17:33:59,410 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2020-12-04 17:33:59,431 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2020-12-04 17:33:59,439 - IccsMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='remarks']")中的内容
+2020-12-04 17:33:59,473 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2020-12-04 17:33:59,498 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2020-12-04 17:33:59,505 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+2020-12-04 17:33:59,570 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>修改9
+2020-12-04 17:33:59,571 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='hallEquipmentChannelList0_parent']")可见
+2020-12-04 17:33:59,593 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='hallEquipmentChannelList0_parent']")-->已可见，等待时长为0
+2020-12-04 17:33:59,704 - IccsMS - INFO - 日志信息：下拉框中选择选项成功
+2020-12-04 17:33:59,704 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[contains(@id,'parentPort')]")可见
+2020-12-04 17:33:59,726 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[contains(@id,'parentPort')]")-->已可见，等待时长为0
+2020-12-04 17:33:59,766 - IccsMS - INFO - 日志信息：下拉框中选择选项成功
+2020-12-04 17:33:59,767 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[contains(@id,'protocolId')]")可见
+2020-12-04 17:33:59,787 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[contains(@id,'protocolId')]")-->已可见，等待时长为0
+2020-12-04 17:33:59,827 - IccsMS - INFO - 日志信息：下拉框中选择选项成功
+2020-12-04 17:33:59,828 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2020-12-04 17:33:59,846 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2020-12-04 17:33:59,853 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2020-12-04 17:33:59,941 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:34:00,483 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:34:00,495 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:34:00,521 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存设备成功
+2020-12-04 17:34:00,535 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存设备成功

@@ -1,0 +1,64 @@
+2020-12-04 17:35:29,894 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:35:29,897 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:35:29,941 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:35:29,952 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:35:30,035 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:35:30,036 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')可见
+2020-12-04 17:35:30,079 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')-->已可见，等待时长为0
+2020-12-04 17:35:30,090 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')
+2020-12-04 17:35:30,150 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')可见
+2020-12-04 17:35:30,180 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')-->已可见，等待时长为0
+2020-12-04 17:35:30,188 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[@menu-path=">>设备管理>>设备管理"]//*[text()="设备管理"]')
+2020-12-04 17:35:30,262 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:35:30,289 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:35:30,299 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:35:30,485 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="51952638-775e-4404-8fa6-bb7d734cdb66")>iframe
+2020-12-04 17:35:30,487 - IccsMS - INFO - 日志信息：已进入设备管理界面！！！
+2020-12-04 17:35:30,488 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')可见
+2020-12-04 17:35:30,512 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')-->已可见，等待时长为0
+2020-12-04 17:35:30,520 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')
+2020-12-04 17:35:30,751 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', './/*[@id="name"]')可见
+2020-12-04 17:35:30,772 - IccsMS - INFO - 日志信息：-->元素:('xpath', './/*[@id="name"]')-->已可见，等待时长为0
+2020-12-04 17:35:30,780 - IccsMS - INFO - 日志信息：在-->元素：('xpath', './/*[@id="name"]')进行输入操作
+2020-12-04 17:35:30,866 - IccsMS - INFO - 日志信息：在元素('xpath', './/*[@id="name"]')上输入的值为-------->>>>>新增-电视机
+2020-12-04 17:35:30,866 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='s2id_type']//b")可见
+2020-12-04 17:35:30,887 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='s2id_type']//b")-->已可见，等待时长为0
+2020-12-04 17:35:30,897 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='s2id_type']//b")
+2020-12-04 17:35:31,008 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="select2-drop"]//*[text()="电视机"]')可见
+2020-12-04 17:35:31,034 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="select2-drop"]//*[text()="电视机"]')-->已可见，等待时长为0
+2020-12-04 17:35:31,043 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="select2-drop"]//*[text()="电视机"]')
+2020-12-04 17:35:31,186 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='s2id_area.id']//b")可见
+2020-12-04 17:35:31,205 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='s2id_area.id']//b")-->已可见，等待时长为0
+2020-12-04 17:35:31,213 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='s2id_area.id']//b")
+2020-12-04 17:35:31,315 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+2020-12-04 17:35:31,348 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+2020-12-04 17:35:31,355 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='select2-drop']//input")进行输入操作
+2020-12-04 17:35:31,403 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='select2-drop']//input")上输入的值为-------->>>>>体验区
+2020-12-04 17:35:31,404 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+2020-12-04 17:35:31,422 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+2020-12-04 17:35:31,464 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2020-12-04 17:35:31,483 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2020-12-04 17:35:31,491 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+2020-12-04 17:35:31,557 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新增11
+2020-12-04 17:35:31,558 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//a")可见
+2020-12-04 17:35:31,580 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//a")-->已可见，等待时长为0
+2020-12-04 17:35:31,585 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//a")
+2020-12-04 17:35:31,669 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='hallEquipmentChannelList0_parent']")可见
+2020-12-04 17:35:31,693 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='hallEquipmentChannelList0_parent']")-->已可见，等待时长为0
+2020-12-04 17:35:31,798 - IccsMS - INFO - 日志信息：下拉框中选择选项成功
+2020-12-04 17:35:31,799 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[contains(@id,'parentPort')]")可见
+2020-12-04 17:35:31,818 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[contains(@id,'parentPort')]")-->已可见，等待时长为0
+2020-12-04 17:35:31,890 - IccsMS - INFO - 日志信息：下拉框中选择选项成功
+2020-12-04 17:35:31,891 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[contains(@id,'protocolId')]")可见
+2020-12-04 17:35:31,909 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[contains(@id,'protocolId')]")-->已可见，等待时长为0
+2020-12-04 17:35:31,980 - IccsMS - INFO - 日志信息：下拉框中选择选项成功
+2020-12-04 17:35:31,981 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2020-12-04 17:35:31,999 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2020-12-04 17:35:32,007 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2020-12-04 17:35:32,101 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:35:32,638 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:35:32,678 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:35:32,710 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存设备成功
+2020-12-04 17:35:32,738 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存设备成功

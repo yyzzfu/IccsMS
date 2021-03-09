@@ -1,0 +1,23 @@
+2020-12-04 17:38:30,244 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:38:30,247 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:38:30,302 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:38:30,326 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:38:30,443 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:38:30,444 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+2020-12-04 17:38:30,481 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+2020-12-04 17:38:30,494 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+2020-12-04 17:38:30,607 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')可见
+2020-12-04 17:38:30,637 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')-->已可见，等待时长为0
+2020-12-04 17:38:30,648 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')
+2020-12-04 17:38:30,744 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:38:30,777 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:38:30,792 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:38:31,009 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="34daf2c9-2621-464e-9a2a-ce333b7f8e7e")>iframe
+2020-12-04 17:38:31,010 - IccsMS - INFO - 日志信息：已经进入媒体下发计划界面！！！
+2020-12-04 17:38:31,011 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的视频下发计划1')]/../..//a[text()='删除']")可见
+2020-12-04 17:38:37,129 - IccsMS - ERROR - 日志信息：等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的视频下发计划1')]/../..//a[text()='删除']")可见失败！
+2020-12-04 17:38:37,138 - IccsMS - ERROR - 日志信息：查找元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的视频下发计划1')]/../..//a[text()='删除']")失败
+2020-12-04 17:38:37,569 - IccsMS - INFO - 日志信息：截图成功，存放路径为：C:\Users\yyzz\Desktop\IccsMS\Outputs/screenshots/_2020-12-04-17-38-37.png
+2020-12-04 17:38:37,570 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的视频下发计划1')]/../..//a[text()='删除']")
+2020-12-04 17:38:37,571 - IccsMS - ERROR - 日志信息：点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的视频下发计划1')]/../..//a[text()='删除']")失败
+2020-12-04 17:38:37,992 - IccsMS - INFO - 日志信息：截图成功，存放路径为：C:\Users\yyzz\Desktop\IccsMS\Outputs/screenshots/_2020-12-04-17-38-37.png

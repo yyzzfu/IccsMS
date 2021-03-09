@@ -1,0 +1,34 @@
+2020-12-04 17:38:04,410 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:38:04,413 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:38:04,747 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:38:04,757 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:38:04,823 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:38:04,824 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+2020-12-04 17:38:04,861 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+2020-12-04 17:38:04,877 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+2020-12-04 17:38:04,995 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="欢迎词管理"]')可见
+2020-12-04 17:38:05,026 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="欢迎词管理"]')-->已可见，等待时长为0
+2020-12-04 17:38:05,037 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="欢迎词管理"]')
+2020-12-04 17:38:05,133 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:38:05,163 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:38:05,176 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:38:05,346 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="90148c6f-a1a8-41d1-8b23-bbdfacd6d574")>iframe
+2020-12-04 17:38:05,347 - IccsMS - INFO - 日志信息：已经进入欢迎词管理界面！！！
+2020-12-04 17:38:05,348 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的欢迎词标题1')]/../..//a[text()='删除']")可见
+2020-12-04 17:38:05,389 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的欢迎词标题1')]/../..//a[text()='删除']")-->已可见，等待时长为0
+2020-12-04 17:38:05,401 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改的欢迎词标题1')]/../..//a[text()='删除']")
+2020-12-04 17:38:05,595 - IccsMS - INFO - 日志信息：已切回到默认的iframe
+2020-12-04 17:38:05,596 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')可见
+2020-12-04 17:38:05,633 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')-->已可见，等待时长为0
+2020-12-04 17:38:05,646 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')
+2020-12-04 17:38:06,241 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:38:06,262 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:38:06,269 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:38:06,282 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="90148c6f-a1a8-41d1-8b23-bbdfacd6d574")>iframe
+2020-12-04 17:38:06,283 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:38:06,299 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:38:06,306 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:38:06,320 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+删除欢迎词成功
+2020-12-04 17:38:06,329 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+删除欢迎词成功

@@ -1,0 +1,52 @@
+[32mINFO    [0m IccsMS:my_log.py:44 刷新页面
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+[32mINFO    [0m IccsMS:my_log.py:44 已关闭已默认打开的tab！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="欢迎词管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="欢迎词管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="欢迎词管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="eca97ec1-8ae4-441e-aadf-db2652f018b2")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已经进入欢迎词管理界面！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的欢迎词标题1')]/../..//a[text()='修改']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的欢迎词标题1')]/../..//a[text()='修改']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'新增的欢迎词标题1')]/../..//a[text()='修改']")
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='s2id_mediaId.id']//b")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='s2id_mediaId.id']//b")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='s2id_mediaId.id']//b")
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', "//*[@id='select2-drop']//input")进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', "//*[@id='select2-drop']//input")上输入的值为-------->>>>>新增的欢迎词素材1
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='select2-drop']//input")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='select2-drop']//input")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='title']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='title']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->清空元素(**输入框**)：('xpath', "//*[@id='title']")中的内容
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='title']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='title']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', "//*[@id='title']")进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', "//*[@id='title']")上输入的值为-------->>>>>修改的欢迎词标题1
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='content']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='content']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->清空元素(**输入框**)：('xpath', "//*[@id='content']")中的内容
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='content']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='content']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', "//*[@id='content']")进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', "//*[@id='content']")上输入的值为-------->>>>>修改的欢迎词内容1
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IccsMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存欢迎词成功
+[32mINFO    [0m IccsMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+保存欢迎词成功

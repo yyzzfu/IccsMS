@@ -1,0 +1,36 @@
+2020-12-04 17:31:08,930 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:31:08,932 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:31:09,217 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:31:09,225 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:31:09,264 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:31:09,265 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')可见
+2020-12-04 17:31:09,285 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:09,293 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')
+2020-12-04 17:31:09,335 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')可见
+2020-12-04 17:31:09,355 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:09,364 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')
+2020-12-04 17:31:09,419 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:31:09,439 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:31:09,448 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:09,539 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="732977bb-784e-43b1-9860-21c03ed2e47a")>iframe
+2020-12-04 17:31:09,540 - IccsMS - INFO - 日志信息：已经进入区域管理设置界面！！！
+2020-12-04 17:31:09,542 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '服务区')]/../..//a[text()='修改']")可见
+2020-12-04 17:31:09,566 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '服务区')]/../..//a[text()='修改']")-->已可见，等待时长为0
+2020-12-04 17:31:09,574 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '服务区')]/../..//a[text()='修改']")
+2020-12-04 17:31:09,764 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', ".//*[@id='name']")可见
+2020-12-04 17:31:09,783 - IccsMS - INFO - 日志信息：-->元素:('xpath', ".//*[@id='name']")-->已可见，等待时长为0
+2020-12-04 17:31:09,791 - IccsMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', ".//*[@id='name']")中的内容
+2020-12-04 17:31:09,839 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', ".//*[@id='name']")可见
+2020-12-04 17:31:09,859 - IccsMS - INFO - 日志信息：-->元素:('xpath', ".//*[@id='name']")-->已可见，等待时长为0
+2020-12-04 17:31:09,866 - IccsMS - INFO - 日志信息：在-->元素：('xpath', ".//*[@id='name']")进行输入操作
+2020-12-04 17:31:09,942 - IccsMS - INFO - 日志信息：在元素('xpath', ".//*[@id='name']")上输入的值为-------->>>>>修改后的服务区
+2020-12-04 17:31:09,943 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2020-12-04 17:31:09,962 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2020-12-04 17:31:09,970 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2020-12-04 17:31:10,055 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:31:10,603 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:31:10,614 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:31:10,634 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存区域成功
+2020-12-04 17:31:10,647 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存区域成功

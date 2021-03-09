@@ -1,0 +1,34 @@
+[32mINFO    [0m IccsMS:my_log.py:44 刷新页面
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+[32mINFO    [0m IccsMS:my_log.py:44 已关闭已默认打开的tab！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="7926e911-79f2-452a-8aae-e37fb4210257")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已经进入区域管理设置界面！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '修改后的体验区')]/../..//a[text()='删除']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '修改后的体验区')]/../..//a[text()='删除']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '修改后的体验区')]/../..//a[text()='删除']")
+[32mINFO    [0m IccsMS:my_log.py:44 已切回到默认的iframe
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="7926e911-79f2-452a-8aae-e37fb4210257")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IccsMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+删除区域成功
+[32mINFO    [0m IccsMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+删除区域成功

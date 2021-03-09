@@ -1,0 +1,26 @@
+2020-12-04 17:36:00,622 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:36:00,626 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:36:00,648 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:36:00,656 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:36:00,698 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:36:00,699 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')可见
+2020-12-04 17:36:00,736 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')-->已可见，等待时长为0
+2020-12-04 17:36:00,748 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')
+2020-12-04 17:36:00,803 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//span[text()="场景设置"]')可见
+2020-12-04 17:36:00,834 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//span[text()="场景设置"]')-->已可见，等待时长为0
+2020-12-04 17:36:00,845 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//span[text()="场景设置"]')
+2020-12-04 17:36:00,929 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:36:01,058 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:36:01,160 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:36:01,194 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="87487552-1051-462f-afe7-14fbbb26dad2")>iframe
+2020-12-04 17:36:01,195 - IccsMS - INFO - 日志信息：已进入场景设置界面！！！
+2020-12-04 17:36:01,196 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改后的场景1')]/../..//a[text()='禁用']")可见
+2020-12-04 17:36:01,231 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改后的场景1')]/../..//a[text()='禁用']")-->已可见，等待时长为0
+2020-12-04 17:36:01,243 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(),'修改后的场景1')]/../..//a[text()='禁用']")
+2020-12-04 17:36:01,645 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:36:01,666 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:36:01,675 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:36:01,689 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+禁用场景成功
+2020-12-04 17:36:01,698 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+禁用场景成功

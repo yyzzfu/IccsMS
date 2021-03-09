@@ -1,0 +1,33 @@
+2020-12-04 17:31:16,498 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:31:16,514 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:31:16,545 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:31:16,556 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:31:16,624 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:31:16,626 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')可见
+2020-12-04 17:31:16,695 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:16,724 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')
+2020-12-04 17:31:16,819 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')可见
+2020-12-04 17:31:16,852 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:16,864 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')
+2020-12-04 17:31:16,931 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:31:16,956 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:31:16,972 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:17,133 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="73109ea3-c48b-4e50-87fa-08be3b9231d2")>iframe
+2020-12-04 17:31:17,134 - IccsMS - INFO - 日志信息：已经进入区域管理设置界面！！！
+2020-12-04 17:31:17,135 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')可见
+2020-12-04 17:31:17,160 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')-->已可见，等待时长为0
+2020-12-04 17:31:17,170 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')
+2020-12-04 17:31:17,403 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', ".//*[@id='name']")可见
+2020-12-04 17:31:17,425 - IccsMS - INFO - 日志信息：-->元素:('xpath', ".//*[@id='name']")-->已可见，等待时长为0
+2020-12-04 17:31:17,432 - IccsMS - INFO - 日志信息：在-->元素：('xpath', ".//*[@id='name']")进行输入操作
+2020-12-04 17:31:17,504 - IccsMS - INFO - 日志信息：在元素('xpath', ".//*[@id='name']")上输入的值为-------->>>>>服务区
+2020-12-04 17:31:17,505 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+2020-12-04 17:31:17,525 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+2020-12-04 17:31:17,534 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="btnSubmit"]')
+2020-12-04 17:31:17,622 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:31:18,169 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:31:18,184 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:31:18,217 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存区域成功
+2020-12-04 17:31:18,235 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+保存区域成功

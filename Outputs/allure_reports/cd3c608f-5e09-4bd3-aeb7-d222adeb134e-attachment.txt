@@ -1,0 +1,59 @@
+2020-12-04 17:31:18,554 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:31:18,556 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:31:18,583 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:31:18,591 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:31:18,631 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:31:18,631 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')可见
+2020-12-04 17:31:18,650 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:18,657 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')
+2020-12-04 17:31:18,702 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="区域分布图管理"]')可见
+2020-12-04 17:31:18,728 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="区域分布图管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:18,738 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="区域分布图管理"]')
+2020-12-04 17:31:18,795 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:31:18,816 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:31:18,825 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:19,043 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="639ffc6a-fc5f-47bb-8d92-1568fd91d9fe")>iframe
+2020-12-04 17:31:19,044 - IccsMS - INFO - 日志信息：已经进入区域分布图管理界面！！！
+2020-12-04 17:31:19,047 - IccsMS - INFO - 日志信息：获取当前窗口的句柄
+2020-12-04 17:31:19,049 - IccsMS - INFO - 日志信息：获取当前窗口的句柄成功！！！当前窗口句柄为CDwindow-ACF2F73B7F92B1F92FE324190A97422C
+2020-12-04 17:31:20,050 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="photoImagePreview"]/following-sibling::a[@onclick="photoImageFinderOpen();"]')可见
+2020-12-04 17:31:20,079 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="photoImagePreview"]/following-sibling::a[@onclick="photoImageFinderOpen();"]')-->已可见，等待时长为0
+2020-12-04 17:31:20,086 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="photoImagePreview"]/following-sibling::a[@onclick="photoImageFinderOpen();"]')
+2020-12-04 17:31:20,254 - IccsMS - INFO - 日志信息：所有窗口的句柄分别为['CDwindow-ACF2F73B7F92B1F92FE324190A97422C', 'CDwindow-FF7BD10E0404E0C2166CCD60193E94AB']
+2020-12-04 17:31:20,263 - IccsMS - INFO - 日志信息：已切换到最新的窗口！！！窗口句柄为CDwindow-FF7BD10E0404E0C2166CCD60193E94AB
+2020-12-04 17:31:20,264 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//iframe[@allowtransparency="true"]')可见
+2020-12-04 17:31:22,316 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//iframe[@allowtransparency="true"]')-->已可见，等待时长为2
+2020-12-04 17:31:22,325 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:22,348 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="5224fe7c-67b0-49e5-9273-0195baf2aa75")>iframe
+2020-12-04 17:31:22,349 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='cke_9_label']")可见
+2020-12-04 17:31:22,380 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='cke_9_label']")-->已可见，等待时长为0
+2020-12-04 17:31:22,389 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='cke_9_label']")
+2020-12-04 17:31:24,594 - IccsMS - INFO - 日志信息：准备上传文件，文件的路径为C:\Users\yyzz\Desktop\图片\area_bg\add\2020-12-04 17_31_22_489790.jpg
+2020-12-04 17:31:26,655 - IccsMS - INFO - 日志信息：文件上传成功！！！
+2020-12-04 17:31:28,657 - IccsMS - INFO - 日志信息：准备执行鼠标双击('xpath', '//*[@class="files_thumbnails fake no_list"]//h5[text()="2020-12-04 17_31_22_489790.jpg"]')
+2020-12-04 17:31:28,658 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@class="files_thumbnails fake no_list"]//h5[text()="2020-12-04 17_31_22_489790.jpg"]')可见
+2020-12-04 17:31:28,687 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@class="files_thumbnails fake no_list"]//h5[text()="2020-12-04 17_31_22_489790.jpg"]')-->已可见，等待时长为0
+2020-12-04 17:31:29,061 - IccsMS - INFO - 日志信息：执行鼠标双击成功！！！
+2020-12-04 17:31:32,064 - IccsMS - INFO - 日志信息：返回到默认窗口
+2020-12-04 17:31:32,073 - IccsMS - INFO - 日志信息：返回到默认窗口成功！！！窗口句柄为CDwindow-ACF2F73B7F92B1F92FE324190A97422C
+2020-12-04 17:31:33,075 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:31:33,134 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:31:33,143 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:33,177 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="639ffc6a-fc5f-47bb-8d92-1568fd91d9fe")>iframe
+2020-12-04 17:31:33,178 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2020-12-04 17:31:33,202 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2020-12-04 17:31:33,211 - IccsMS - INFO - 日志信息：在-->清空元素(**输入框**)：('xpath', "//*[@id='remarks']")中的内容
+2020-12-04 17:31:33,241 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='remarks']")可见
+2020-12-04 17:31:33,258 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='remarks']")-->已可见，等待时长为0
+2020-12-04 17:31:33,266 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='remarks']")进行输入操作
+2020-12-04 17:31:33,352 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='remarks']")上输入的值为-------->>>>>新增的分布图
+2020-12-04 17:31:33,353 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='btnSubmit']")可见
+2020-12-04 17:31:33,384 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='btnSubmit']")-->已可见，等待时长为0
+2020-12-04 17:31:33,393 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='btnSubmit']")
+2020-12-04 17:31:33,815 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="inputForm"]/child::div[@id="messageBox"]')可见
+2020-12-04 17:31:33,846 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="inputForm"]/child::div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:31:33,855 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//*[@id="inputForm"]/child::div[@id="messageBox"]')的文本内容
+2020-12-04 17:31:33,871 - IccsMS - INFO - 日志信息：获取到('xpath', '//*[@id="inputForm"]/child::div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存管理区域分布图成功
+2020-12-04 17:31:33,881 - IccsMS - INFO - 日志信息：获取区域分布图保存成功提示信息成功！！！获取到的文本信息为×
+保存管理区域分布图成功

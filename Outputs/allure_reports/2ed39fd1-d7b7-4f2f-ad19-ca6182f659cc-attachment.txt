@@ -1,0 +1,34 @@
+2020-12-04 17:31:12,941 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:31:12,945 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:31:12,981 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:31:12,995 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:31:13,060 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:31:13,061 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')可见
+2020-12-04 17:31:13,097 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:13,108 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="营业厅管理"]')
+2020-12-04 17:31:13,172 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')可见
+2020-12-04 17:31:13,199 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')-->已可见，等待时长为0
+2020-12-04 17:31:13,210 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="区域管理"]')
+2020-12-04 17:31:13,277 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:31:13,306 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:31:13,339 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:13,442 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="7926e911-79f2-452a-8aae-e37fb4210257")>iframe
+2020-12-04 17:31:13,443 - IccsMS - INFO - 日志信息：已经进入区域管理设置界面！！！
+2020-12-04 17:31:13,443 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '修改后的体验区')]/../..//a[text()='删除']")可见
+2020-12-04 17:31:13,467 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '修改后的体验区')]/../..//a[text()='删除']")-->已可见，等待时长为0
+2020-12-04 17:31:13,474 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='contentTable']//a[contains(text(), '修改后的体验区')]/../..//a[text()='删除']")
+2020-12-04 17:31:13,569 - IccsMS - INFO - 日志信息：已切回到默认的iframe
+2020-12-04 17:31:13,570 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')可见
+2020-12-04 17:31:13,593 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')-->已可见，等待时长为0
+2020-12-04 17:31:13,603 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="jbox-state-state0"]//button[text()="确定"]')
+2020-12-04 17:31:14,167 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:31:14,200 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:31:14,217 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:31:14,243 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="7926e911-79f2-452a-8aae-e37fb4210257")>iframe
+2020-12-04 17:31:14,244 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="messageBox"]')可见
+2020-12-04 17:31:14,277 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+2020-12-04 17:31:14,291 - IccsMS - INFO - 日志信息：在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+2020-12-04 17:31:14,307 - IccsMS - INFO - 日志信息：获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+删除区域成功
+2020-12-04 17:31:14,317 - IccsMS - INFO - 日志信息：获取提示信息成功！！！获取到的文本信息为×
+删除区域成功

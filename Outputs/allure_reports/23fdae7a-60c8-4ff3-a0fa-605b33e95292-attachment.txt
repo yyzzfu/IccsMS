@@ -1,0 +1,29 @@
+2020-12-04 17:38:09,237 - IccsMS - INFO - 日志信息：刷新页面
+2020-12-04 17:38:09,241 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+2020-12-04 17:38:09,282 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+2020-12-04 17:38:09,296 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+2020-12-04 17:38:09,380 - IccsMS - INFO - 日志信息：已关闭已默认打开的tab！！！
+2020-12-04 17:38:09,381 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')可见
+2020-12-04 17:38:09,432 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')-->已可见，等待时长为0
+2020-12-04 17:38:09,448 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体管理"]')
+2020-12-04 17:38:09,519 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')可见
+2020-12-04 17:38:09,563 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')-->已可见，等待时长为0
+2020-12-04 17:38:09,575 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', '//*[@id="menu"]//*[text()="媒体下发计划"]')
+2020-12-04 17:38:09,648 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+2020-12-04 17:38:09,677 - IccsMS - INFO - 日志信息：-->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+2020-12-04 17:38:09,692 - IccsMS - INFO - 日志信息：准备切换iframe
+2020-12-04 17:38:09,935 - IccsMS - INFO - 日志信息：已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="59862986-ae23-42e4-9648-9db255a2ef8e")>iframe
+2020-12-04 17:38:09,936 - IccsMS - INFO - 日志信息：已经进入媒体下发计划界面！！！
+2020-12-04 17:38:09,980 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='searchForm']//a[text()='视频下发计划添加']")可见
+2020-12-04 17:38:10,005 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='searchForm']//a[text()='视频下发计划添加']")-->已可见，等待时长为0
+2020-12-04 17:38:10,012 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//*[@id='searchForm']//a[text()='视频下发计划添加']")
+2020-12-04 17:38:10,289 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//*[@id='name']")可见
+2020-12-04 17:38:10,316 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//*[@id='name']")-->已可见，等待时长为0
+2020-12-04 17:38:10,323 - IccsMS - INFO - 日志信息：在-->元素：('xpath', "//*[@id='name']")进行输入操作
+2020-12-04 17:38:10,443 - IccsMS - INFO - 日志信息：在元素('xpath', "//*[@id='name']")上输入的值为-------->>>>>新增的视频下发计划1
+2020-12-04 17:38:10,445 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//label[text()='多媒体任务素材关系表：']/following-sibling::div//table//a")可见
+2020-12-04 17:38:10,479 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//label[text()='多媒体任务素材关系表：']/following-sibling::div//table//a")-->已可见，等待时长为0
+2020-12-04 17:38:10,490 - IccsMS - INFO - 日志信息：-->点击元素:('xpath', "//label[text()='多媒体任务素材关系表：']/following-sibling::div//table//a")
+2020-12-04 17:38:10,609 - IccsMS - INFO - 日志信息：-->等待元素:('xpath', "//select[contains(@id,'mediaId')]")可见
+2020-12-04 17:38:10,646 - IccsMS - INFO - 日志信息：-->元素:('xpath', "//select[contains(@id,'mediaId')]")-->已可见，等待时长为0
+2020-12-04 17:38:10,690 - IccsMS - ERROR - 日志信息：下拉框中选择选项失败

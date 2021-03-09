@@ -1,0 +1,57 @@
+[32mINFO    [0m IccsMS:my_log.py:44 刷新页面
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', "//*[@id='jerichotab']//a[@title='关闭']")
+[32mINFO    [0m IccsMS:my_log.py:44 已关闭已默认打开的tab！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//ul[@id="menu"]//*[text()="设备管理" and @class="dropdown-toggle menuLevel1"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="menu"]//span[text()="测控管理"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="menu"]//span[text()="测控管理"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="menu"]//span[text()="测控管理"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="jerichotab_contentholder"]//iframe')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 准备切换iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已切换到<selenium.webdriver.remote.webelement.WebElement (session="b579ab110854d99af06984bc4767a620", element="a12522e9-3110-4293-8d8a-9a28223a7ad5")>iframe
+[32mINFO    [0m IccsMS:my_log.py:44 已进入测控管理界面！！！
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="searchForm"]//*[text()="新增" and @class="btn btn-primary"] ')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="s2id_gatewayId.id"]//b')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="s2id_gatewayId.id"]//b')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="s2id_gatewayId.id"]//b')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="select2-drop"]//*[text()="新增的网络通道1"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="select2-drop"]//*[text()="新增的网络通道1"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="select2-drop"]//*[text()="新增的网络通道1"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="s2id_gatewayPort.id"]//b')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="s2id_gatewayPort.id"]//b')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="s2id_gatewayPort.id"]//b')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="select2-drop"]//*[contains(text(), "1000")]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="select2-drop"]//*[contains(text(), "1000")]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="select2-drop"]//*[contains(text(), "1000")]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="name"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="name"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', '//*[@id="name"]')进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', '//*[@id="name"]')上输入的值为-------->>>>>新增的测控1
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="pathwayAmount"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="pathwayAmount"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', '//*[@id="pathwayAmount"]')进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', '//*[@id="pathwayAmount"]')上输入的值为-------->>>>>9
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="startAddress"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="startAddress"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', '//*[@id="startAddress"]')进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', '//*[@id="startAddress"]')上输入的值为-------->>>>>3333
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="remarks"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="remarks"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在-->元素：('xpath', '//*[@id="remarks"]')进行输入操作
+[32mINFO    [0m IccsMS:my_log.py:44 在元素('xpath', '//*[@id="remarks"]')上输入的值为-------->>>>>新增的测控001备注信息
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//*[@id="btnSubmit"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//*[@id="btnSubmit"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 -->点击元素:('xpath', '//*[@id="btnSubmit"]')
+[32mINFO    [0m IccsMS:my_log.py:44 -->等待元素:('xpath', '//div[@id="messageBox"]')可见
+[32mINFO    [0m IccsMS:my_log.py:44 -->元素:('xpath', '//div[@id="messageBox"]')-->已可见，等待时长为0
+[32mINFO    [0m IccsMS:my_log.py:44 在中-->获取元素:('xpath', '//div[@id="messageBox"]')的文本内容
+[32mINFO    [0m IccsMS:my_log.py:44 获取到('xpath', '//div[@id="messageBox"]')元素的文本内容为-------->>>>>×
+保存测控成功
+[32mINFO    [0m IccsMS:my_log.py:44 获取提示信息成功！！！获取到的文本信息为×
+保存测控成功
